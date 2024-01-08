@@ -5,6 +5,7 @@
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-repo-blue)](https://hub.docker.com/repository/docker/takecontrolorg/sync_server/general)
 
 [![Project](https://img.shields.io/badge/Project-Sync_Device-darkred)](https://github.com/orgs/takecontrolsoft/projects/1)
+[![Release](https://img.shields.io/github/v/release/takecontrolsoft/sync_server.svg)](https://github.com/takecontrolsoft/sync_server/releases/latest)
 [![License](https://img.shields.io/badge/License-Apache-purple)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### Sync Devices project.
