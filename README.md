@@ -11,6 +11,6 @@ The purpose of this project is to help people to keep the important files from a
 
 ### Repositories:
 
-- [sync_server](https://github.com/takecontrolsoft/sync_server) Golang server for uploading files and running workflows.
-- [sync_client](https://github.com/takecontrolsoft/sync_client) Flutter app for syncing device files.
+- [sync_server](https://github.com/takecontrolsoft/sync_server) Golang server for uploading files and media files processing workflows.
+- [sync_client](https://github.com/takecontrolsoft/sync_client) Flutter app for syncing device files in background.
 - [image_core](https://github.com/takecontrolsoft/image_core) C++ private libraries for processing images and video files.
