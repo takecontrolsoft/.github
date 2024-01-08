@@ -4,7 +4,7 @@
 [![Linked in](https://img.shields.io/badge/Linked_In-page-blue)](https://www.linkedin.com/company/take-control-si/)
 [![Docker Hub](https://img.shields.io/badge/Docker_Hub-repo-blue)](https://hub.docker.com/repository/docker/takecontrolorg/sync_server/general)
 
-[![Project](https://img.shields.io/badge/Project-Sync_Device-darkred)]([https://www.apache.org/licenses/LICENSE-2.0](https://github.com/orgs/takecontrolsoft/projects/1))
+[![Project](https://img.shields.io/badge/Project-Sync_Device-darkred)](https://github.com/orgs/takecontrolsoft/projects/1)
 [![License](https://img.shields.io/badge/License-Apache-purple)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### Sync Devices project.
