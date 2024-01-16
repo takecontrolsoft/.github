@@ -14,3 +14,12 @@ This project is focused on developing a solution for synchronizing all mobile/ho
 The purpose of this project is to help people to keep the important files from all their phones, notebooks, PCs, tablets, TVs and others devices.
 
 **_The owner of the project is **["Take Control - software & infrastructure"](https://takecontrolsoft.eu/)**_**
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-85FJJ8C68C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-85FJJ8C68C');
+</script>
